@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watcher/static/css/main.bed95b55.css",
+    "main.js": "/watcher/static/js/main.677b16f1.js",
+    "index.html": "/watcher/index.html",
+    "main.bed95b55.css.map": "/watcher/static/css/main.bed95b55.css.map",
+    "main.677b16f1.js.map": "/watcher/static/js/main.677b16f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed95b55.css",
+    "static/js/main.677b16f1.js"
+  ]
+}
